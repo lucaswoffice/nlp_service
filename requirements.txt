@@ -5,3 +5,4 @@ spacy==3.7.5
 spacy-legacy==3.0.12
 spacy-loggers==1.0.5
 scikit-learn==1.5.0
+gunicorn==20.1.0
